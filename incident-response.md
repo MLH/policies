@@ -2,7 +2,7 @@
 The following is a guide of actions to be taken in the case of a Code of Conduct or Rules Violation.
 
 ## Code of Conduct Violation
-Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
+Before taking an incident report, attempt to find a local event organizer to help you.  If you’re unable to find a local organizer, involve a trusted third party to witness the report. While taking the report, try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
 
 - Identifying information (name, etc.) of the participant doing the harassing
 - The behavior that was in violation
@@ -58,4 +58,4 @@ Depending on the incident, the MLH Incident Response Team may decide to make one
 
 If some attendees were angered by the incident, it is best to apologize to them that the incident occurred to begin with. If there are residual hard feelings, suggest to them to write an email to MLH. It will be dealt with accordingly.
 
-Last Revised: 2017-11-21
+Last Revised: 2018-09-23
