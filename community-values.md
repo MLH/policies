@@ -28,11 +28,12 @@ for hackers, organizers, and sponsors alike.
 ## MLH Member Events are open and accessible to all students.
 
  - Do not have entry fees.
- - Advertise well enough in advance for hackers in the area to learn about the
+ - Advertise well enough in advance for hackers in the area to learn about the 
    event.
- - Do not discriminate on the basis of race, religion, national origin, color,
-   sex, gender identity, sexual orientation, social class, economic status,
-   veteran status, disability, or age.
+ - Do not discriminate on the basis of gender, age, sexual orientation, disability, physical appearance, body size, race,  
+   religion, social class, economic status, veteran status, sexual images, deliberate intimidation, stalking, following, 
+   harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and 
+   unwelcome sexual attention.
  - Make a good-will effort to advertise and make the application for admission
    publicly available.
  - Aren’t secret or invite-only events
