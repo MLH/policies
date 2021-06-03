@@ -38,6 +38,7 @@ in addition to upholding the [Community Values](https://mlh.io/community-values)
     -   **North America:** United States, Canada, and Mexico.
     -   **Europe:** The United Kingdom, the European Union, and select other
         European countries.
+    -   **Asia-Pacific:** India, Sri Lanka, and select countries in Southeast Asia, East Asia, and Australasia.
 
 7.  **Attendance.** We require Member Events to have a minimum number of
     attendees. To qualify to be a Member Event, you must be planning
@@ -92,6 +93,8 @@ benefits.
     subject to approval from GitHub. Information will be sent out 40 days
     prior to your hackathon.
 
+    - **Asia-Pacific:** A grant First Time Member Events is currently not available to Member Events in Asia-Pacific.
+
 5.  **MLH Localhost Workshops.** Hackers want workshops. We’ve created a
     program called MLH Localhost to help you run high-quality workshops
     that get hackers excited either before the hackathon or teach your
@@ -122,6 +125,8 @@ benefits.
     to keep track of which attendees have which devices. We are able to add
     non-MLH Hardware into our checkout system as requested. Lab contents
     vary by event.
+
+    - **Asia-Pacific:** The hardware lab is currently not available to Member Events in Asia-Pacific.
 
 4.  **MLH Emergency Budget.** On average, hackathons see about a 50% attrition
     rate between their signups during registration and the actual day-of
@@ -156,6 +161,8 @@ benefits.
     stickers, MLH Stickers, GitHub stickers, and feminine hygiene
     products. Events may also receive assorted swag from MLH Season
     sponsors such as pens and t-shirts.
+
+    - **Asia-Pacific:** Select swag may not be available to Member Events in Asia-Pacific.
 
 8.  **Judging Coordination.** We know that judging is one of the most
     stressful periods during a hackathon. Our MLH representative on-site
@@ -335,6 +342,8 @@ organizers must meet the following requirements:
     providing volunteers, our MLH rep will be freed up to help your
     organizing team and hackers with higher priority event support.
 
+    - **Asia-Pacific:** Reservation of a table for the MLH Hardware Lab is not required.
+
 5.  **Signage.** Display MLH Season and directional signage in key areas
     during the event. Much like displaying the Trust Badge on your
     website, having MLH signage on-site during the event signals your
@@ -372,4 +381,4 @@ questions regarding these policies, please contact us by email at
 [league@mlh.io](mailto:league@mlh.io).
 
 This guide was last updated on:
-May 1, 2019
+September 23, 2019
